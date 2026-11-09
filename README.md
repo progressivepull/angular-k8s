@@ -41,7 +41,7 @@ docker ps
 ```
 Expected output:
 
-<img src="media/image2.png" style="width:8.5in;height:3.5in" />
+<img src="media/image2.png" style="width:8.5in;height:2.5in" />
 
 ## Table of Contents
 * [Dockerfile Explanation](./Dockerfile_Explanation.md)
