@@ -1,0 +1,21 @@
+version: '3.9'
+
+services:
+  angular-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+
+    container_name: angular-app
+
+    ports:
+      - "4200:4200"
+
+    volumes:
+      - .:/app
+      - /app/node_modules
+
+    command: npm start -- --host 0.0.0.0
+
+    environment:
+      - CHOKIDAR_USEPOLLING=true
