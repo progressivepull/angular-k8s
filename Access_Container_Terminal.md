@@ -3,13 +3,13 @@
 This guide explains how to access a running Angular container using Docker Desktop. You can execute Linux commands, inspect project files, and troubleshoot your application.
 
 ## Go the the Containers Tab
-<img src="media/container-list.png" style="width:3.5in;height:3.0in" />
+<img src="media/container-list.png" style="width=6.924116360454943in;height=2.4311373578302713in" />
 
 ## Open the Terminal
-<img src="media/open-in-termial.png" style="width:3.5in;height:3.0in" />
+<img src="media/open-in-termial.png" style="width:6.87295384951881in;height:2.413173665791776in" />
 
 ## Executes Linix Commands
-<img src="media/file-systems.png" style="width:3.5in;height:3.0in" />
+<img src="media/file-systems.png" style="width:6.821791338582677in;height:2.395209973753281in" />
 
 
 
