@@ -2,7 +2,7 @@
 
 ## Project Structure
 
-<img src="media/image1.png" style="width:4.5in;height:4.5in" />
+<img src="media/image1.png" style="width:4.5in;height:4.0in" />
 
 ## Build Container
 
@@ -41,7 +41,7 @@ docker ps
 ```
 Expected output:
 
-<img src="media/image2.png" style="width:3.5in;height:8.5in" />
+<img src="media/image2.png" style="width:8.5in;height:3.5in" />
 
 ## Table of Contents
 * [Dockerfile Explanation](./Dockerfile_Explanation.md)
