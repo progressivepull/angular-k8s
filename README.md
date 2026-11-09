@@ -45,4 +45,5 @@ Expected output:
 
 ## Table of Contents
 * [Dockerfile Explanation](./Dockerfile_Explanation.md)
+* [How to Access an Angular Container Terminal Using Docker Desktop](./Access_Container_Terminal.md)
 
