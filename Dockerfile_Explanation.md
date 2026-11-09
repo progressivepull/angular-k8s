@@ -171,3 +171,5 @@ http://localhost:4200
 5. Copy application source code.
 6. Document port 4200.
 7. Start the Angular development server and make it accessible outside the container.
+
+[README](./README.md)
