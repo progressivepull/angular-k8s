@@ -4,6 +4,12 @@
 
 <img src="media/image1.png" style="width:3.5in;height:3.0in" />
 
+Change directory to my-angular-app
+
+```bash
+cd my-angular-app
+```
+
 ## Build Container
 
 ```bash
