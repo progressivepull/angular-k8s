@@ -1,5 +1,7 @@
 # angular-k8s
 
+By John Smith
+
 ## Project Structure
 
 <img src="media/image1.png" style="width:3.5in;height:3.0in" />
