@@ -4,7 +4,7 @@ By John Smith
 
 ## Project Structure
 
-<img src="media/image1.png" style="width:3.5in;height:3.0in" />
+<img src="media/image1.png" style="width:2.8in;height:2.75in" />
 
 Change directory to my-angular-app
 
