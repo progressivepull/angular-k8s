@@ -109,7 +109,7 @@ Based on your GitHub/Docker Hub username:
 progressivepull/my-angular-app:latest
 ```
 
-## Table of Contents
+# Table of Contents
 * [Dockerfile Explanation](./Dockerfile_Explanation.md)
 * [How to Access an Angular Container Terminal Using Docker Desktop](./Access_Container_Terminal.md)
 
